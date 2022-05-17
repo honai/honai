@@ -1,3 +1,1 @@
-## Hi there 👋
-
-Please refer to [my portfolio site](https://www.honai.me/) .
+# Hi there 👋 Please refer to [my website 🌐](https://www.honai.me/)
